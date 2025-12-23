@@ -11,7 +11,9 @@ Jeonga Kim
 *An Empirical Study on Level-Preserving GPT-Based Text Augmentation for EFL Learner Writing and the Effects of Decoding Temperature Conditions*
 
 **Status**: In press(to be published in December 2025)
-(choose one depending on current status)
+
+https://doi.org/10.35771/engdoi.2025.38.4.010 
+
 
 ## Description
 This repository provides the implementation of a GPT-based level-preserving text augmentation pipeline for Korean EFL learners’ writing data.  
