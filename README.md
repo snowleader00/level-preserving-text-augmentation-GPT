@@ -10,7 +10,7 @@ Jeonga Kim
 **Title**:  
 *Level-Preserving GPT-Based Text Augmentation for EFL Learner Writing: Effects of Decoding Temperature*
 
-**Status**: In press(to be published in December 2025)
+**Status**: Published in December 2025)
 
 https://doi.org/10.35771/engdoi.2025.38.4.010 
 
